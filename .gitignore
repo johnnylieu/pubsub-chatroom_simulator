@@ -1,0 +1,15 @@
+# ignores Python bytecode
+__pycache__/
+*.py[cod]
+
+# ignores virtual environments
+pubsub-chatroom/
+
+# ignores editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ignores environment files (if applicable)
+.env
